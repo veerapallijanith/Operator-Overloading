@@ -53,7 +53,8 @@ class example
  ```
  ## Output:
  
- ![image](https://github.com/veerapallijanith/Operator-Overloading/blob/main/ann.png)
+ 
+![c61](https://user-images.githubusercontent.com/75234814/173348768-0f426d0e-1033-4af2-a23c-0d1f526ea406.png)
 
  
  ## Result:
